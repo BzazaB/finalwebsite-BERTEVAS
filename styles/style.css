@@ -1,0 +1,25 @@
+@import "banner.css";
+@import "footer.css";
+@import "cards.css";
+
+body {
+	margin: 0;
+	background-color: black;
+}
+
+a {
+	font-size: 40px;
+	color: darkorange;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
